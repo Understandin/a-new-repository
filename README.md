@@ -1,6 +1,6 @@
 # a-new-repository
 a new repository
-Hi Genius!
+Hi Geniuses!
 
 
 AI will rule the world. I believe.
